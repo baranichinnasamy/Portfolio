@@ -1,0 +1,23 @@
+[
+
+  {
+    "name": "Todo Application (Java Swing + MySQL)",
+    "desc": "A simple Java Swing-based Todo application backed by a MySQL database.",
+    "image": "Todo2",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/baranichinnasamy/Todo-maven-Project",
+      "code": "https://github.com/baranichinnasamy/Todo-maven-Project"
+    }
+  },
+  {
+    "name": "Expense Tracker (Java Swing + MySQL)",
+    "desc": "A desktop Expense Tracker built with Java Swing and MySQL. It lets you manage categories and expenses with CRUD operations and a simple launcher UI.",
+    "image": "expense3",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
